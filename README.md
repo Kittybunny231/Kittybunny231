@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kittybunny231
 - 👀 I’m interested in video games and art
 - 🌱 I’m currently learning HTML and CSS and Javascript
-- 😄 Pronouns: they/them
+- 😄 Pronouns: she/her they/them
 - ⚡ Fun fact: I caught up with the entire One Piece anime in about 6 months 
 
 <!---
